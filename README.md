@@ -6,7 +6,9 @@ A sophisticated data analysis platform powered by CrewAI's multi-agent framework
 
 ## 🎯 System Architecture
 
-![Architecture Overview](https://lucid.app/lucidchart/c94f357c-87c7-47a4-a521-ff6ab8d442c8/edit?viewport_loc=-397%2C1054%2C2053%2C1115%2C0_0&invitationId=inv_fe15d437-92f4-47f4-b99d-427f9db0f74d)
+![Architecture Overview]
+
+![alt text](image.png)
 
 The system employs **6 specialized AI agents** working in coordinated workflow:
 
